@@ -1,5 +1,5 @@
 # Documentation Template
-A template for documentation
+A template for Documenting Resources
 
 #### Description
 
@@ -7,4 +7,4 @@ A template for documentation
 
 #### Cloud Architecture
 
-# Package Versions
+#### Package Versions
